@@ -21,8 +21,6 @@ Embedded facility details for loading and unloading information
 
 
 Setup Instructions
-e https://github.com/yourusername/load-management-system.git
-
 Configure PostgreSQL database in application.properties
 
 propertiesCopyspring.datasource.url=jdbc:postgresql://localhost:5432/loadmanagement
